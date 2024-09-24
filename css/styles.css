@@ -13,11 +13,12 @@ body {
 }
 
 h1 {
-    color: #007BFF;
-    background-color: black; 
+    color: #d2e40e;
+    background-color: rgb(39, 21, 233); 
     font-size: 28px;
     padding: 17px;
     margin: 10px 0; 
+
 }
 
 h3 {
